@@ -102,7 +102,7 @@ External Services (Twilio WhatsApp, Gemini API)
 
 
 ### 🎨 PPT
-[SahaYata PPT]((https://drive.google.com/file/d/14ydzWq202MI8hPhtD1NWwhYxi3l3wQz8/view?usp=sharing))
+[SahaYata PPT](https://drive.google.com/file/d/14ydzWq202MI8hPhtD1NWwhYxi3l3wQz8/view?usp=sharing)
 
 
 ---
