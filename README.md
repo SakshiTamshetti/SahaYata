@@ -91,7 +91,7 @@ External Services (Twilio WhatsApp, Gemini API)
 
 ---
 
-## 4. SUBMISSION LINKS (MANDATORY)
+## 4. SUBMISSION LINKS
 
 ### ⭐ GITHUB REPOSITORY
 [SahaYata GitHub Repo](https://github.com/YOUR_USERNAME/sahayata)
