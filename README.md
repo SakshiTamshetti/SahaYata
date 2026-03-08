@@ -94,14 +94,15 @@ External Services (Twilio WhatsApp, Gemini API)
 ## 4. SUBMISSION LINKS
 
 ### ⭐ GITHUB REPOSITORY
-[SahaYata GitHub Repo](https://github.com/YOUR_USERNAME/sahayata)
+[SahaYata GitHub Repo](https://github.com/SakshiTamshetti/sahayata)
 
-### 🚀 LIVE DEMO / DEPLOYED LINK
-[SahaYata Live Demo](https://sahayata-demo.vercel.app)
+
+### 🚀 DEMO / PITCH VIDEO
+[SahaYata Demo](https://drive.google.com/drive/u/0/folders/1WyPsO94IO1TZr90YarMFBtYZda3aIzKf)
 
 
 ### 🎨 PPT
-[SahaYata Design](https://www.figma.com/file/YOUR_FILE_ID/SahaYata)
+[SahaYata PPT]((https://drive.google.com/file/d/14ydzWq202MI8hPhtD1NWwhYxi3l3wQz8/view?usp=sharing))
 
 
 ---
